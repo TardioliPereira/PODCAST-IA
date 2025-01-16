@@ -11,20 +11,35 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 UtilizeI uma esteira de prompts para gerar cada etapa do processo criativo.
 
+
 💻 Tecnologias utilizadas no projeto
 ChatGPT
+
 Leonardo IA
+
 ElevenLabs
+
 Capcut
+
 ✨ Como foi feito ?
+
 Roteiro gerado via chatgpt
+
 Audio Criado por https://elevenlabs.io/app/speech-synthesis/text-to-speech
+
 Imagens criadas https://app.leonardo.ai/auth/login?callbackUrl=%2F
+
 Capcut para tratar aúdio e adicionar sons de fundo, mas não inclui só testei
+
+
 📚 Materiais
+
 Link da live no Youtube
+
 Notion Template
+
 Editor de aúdio
+
 
 
    Vanessa Tardioli 
